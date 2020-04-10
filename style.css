@@ -1,0 +1,19 @@
+h1 {
+	background-color: black;
+	color: white;
+	text-align: center;
+}
+
+p {
+	padding-right:  250px;
+	padding-left: 250px;
+}
+
+hr {
+	margin-top: 25px;
+}
+
+footer {
+	text-align: center;
+	font-style: italic;
+}
